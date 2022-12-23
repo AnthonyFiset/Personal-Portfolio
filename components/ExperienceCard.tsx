@@ -12,7 +12,7 @@ function ExperienceCard({}: Props) {
             <h4 className='text-4xl font-light'>CEO of FISET</h4>
             <p className='font-bold text-2xl mt-1'>FISETFAM</p>
             <div className='flex space-x-2 my-2'>
-                {/* Text used */}
+                <img className='h-10 w-10 rounded-full' src="https://lh3.googleusercontent.com/a/AEdFTp6lCwhBsm64Dccx3ojJKxK20CD6InHw_trVfsBjKQ=s576-p-rw-no" alt="" />
                 {/* Text used */}
                 {/* Text used */}
             </div>
