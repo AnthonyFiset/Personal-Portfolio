@@ -18,7 +18,7 @@ export default function Home() {
         <title>Anthony Fiset</title>
         <meta name="description" content="Anthony Fiset's Personal Portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       {/* Header */}
@@ -61,7 +61,7 @@ export default function Home() {
           <footer className='sticky bottom-5 w-full cursor-pointer'>
             <div className="flex items-center justify-end pr-20">
             <Link href={'#hero'}>
-              <img className='h-10 w-10 rounded-full grayscale hover:grayscale-0 cursor-pointer' src="https://img.icons8.com/fluency/96/null/magical-scroll.png" alt="" />
+              <img className='h-10 w-10 rounded-full grayscale hover:grayscale-0 cursor-pointer' src="https://img.icons8.com/nolan/96/circled-up-2.png" alt="" />
               </Link>
             </div>
           </footer>
