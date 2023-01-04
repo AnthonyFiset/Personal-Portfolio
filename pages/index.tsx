@@ -59,9 +59,9 @@ export default function Home() {
 
         
           <footer className='sticky bottom-5 w-full cursor-pointer'>
-            <div className="flex items-center justify-center">
+            <div className="flex items-center justify-end pr-20">
             <Link href={'#hero'}>
-              <img className='h-10 w-10 rounded-full grayscale hover:grayscale-0 cursor-pointer' src="https://i.imgur.com/e2yvD6A.png" alt="" />
+              <img className='h-10 w-10 rounded-full grayscale hover:grayscale-0 cursor-pointer' src="https://img.icons8.com/fluency/96/null/magical-scroll.png" alt="" />
               </Link>
             </div>
           </footer>
