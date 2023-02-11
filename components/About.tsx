@@ -15,7 +15,7 @@ function About({}: Props) {
 
         <h4 className='text-4xl font-semibold'>Here is a <span className='underline decoration-[#F7AB0A]/50'>little</span> background</h4>
 
-        <p className='text-base'>Lorem ipsum, dolor skdldfit amet consectetur adipisicing elit. Nemo nostrum, impedit laudantium labore officiis eveniet maiores aspernatur aperiam molestias! Velit exercitationem ratione incidunt ab labore corporis autem dolor doloribus quae!</p>
+        <p className='text-base'>Lorem ipsum, dosdsdsdlor skdldfit amet consectetur adipisicing elit. Nemo nostrum, impedit laudantium labore officiis eveniet maiores aspernatur aperiam molestias! Velit exercitationem ratione incidunt ab labore corporis autem dolor doloribus quae!</p>
 
         </div>
 
